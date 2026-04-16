@@ -29,7 +29,7 @@ This skill devides project memory into two categories：
   - User preferences
 - **Historical recall**
 
-## 目录结构
+## Directory Structure
 
 ```text
 project-memory-skill/
@@ -47,7 +47,7 @@ project-memory-skill/
     └── memory-check.py
 ```
 
-## 核心文件说明
+## Description
 
 ### `SKILL.md`
 
@@ -85,11 +85,11 @@ Copy the skill to：
 .codex\skills\memory
 ```
 
-### 2. 在目标仓库中接入
+### 2. Initialize it in a project repo
 
 Please let codex to initialize the memory repo at the first time.
 
-### 3. 日常使用
+### 3. daily use
 
 It's just like using hermes agent.
 
