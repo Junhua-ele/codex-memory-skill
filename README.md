@@ -59,7 +59,7 @@ Define the files structure of `.codex-memory/` and responsibilies of each file.
 
 ### `scripts/`
 
-There are six python scripts. In most cases, it is decided by codex itself whether to call it.
+There are seven python scripts. In most cases, it is decided by codex itself whether to call it.
 
 - `memory-init.py`
   - Initialize `.codex-memory/`
@@ -73,6 +73,7 @@ There are six python scripts. In most cases, it is decided by codex itself wheth
   - Compress and organize memory files
 - `memory-check.py`
   - Quality Inspection
+- `memory_common.py`
 
 ## How to use
 
